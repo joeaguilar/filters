@@ -1,5 +1,6 @@
 
-void pixelsort_lr (uint_fast32_t *pixels, uint_fast32_t *clone, Options *opts)
+
+void pixelsort (uint_fast32_t *pixels, uint_fast32_t *clone, Options *opts)
 {
 
     // type: pixelsort
